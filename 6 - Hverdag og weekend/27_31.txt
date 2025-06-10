@@ -1,0 +1,60 @@
+Vækkeuret ringer.
+Hun vågner.
+Hun står op.
+Hun tager brusebad.
+Hun børster tænder.
+Hun reder sig.
+Hun lægger make-up.
+Hun sminker sig.
+Han barberer sig.
+Han tager tøj på.
+Hun vækker børnene.
+Hun laver morgenmad.
+De spiser morgenmad.
+De drikker kaffe.
+Hun afleverer børnene i børnehaven.
+Hun afleverer børnene i vuggestuen.
+Han tager af sted hjemmefra.
+Han tager på arbejde.
+
+---
+
+---
+The alarm clock rings.
+She wakes up.
+She gets up.
+She takes a shower.
+She brushes her teeth.
+She straightens her hair.
+She puts on make-up.
+She puts on make-up.
+He shaves.
+He gets dressed.
+She wakes up the children.
+She makes breakfast.
+They eat breakfast.
+They drink coffee.
+She drops the children off at kindergarten.
+She drops the children off at daycare.
+He leaves home.
+He goes to work.
+---
+अलार्म घड़ी बजती है।
+वह जागती है।
+वह उठती है।
+वह नहाती है।
+वह अपने दाँत साफ करती है।
+वह अपने बाल सीधे करती है।
+वह मेकअप करती है।
+वह मेकअप करती है।
+वह दाढ़ी बनाता है।
+वह कपड़े पहनता है।
+वह बच्चों को जगाती है।
+वह नाश्ता बनाती है।
+वे नाश्ता करते हैं।
+वे कॉफी पीते हैं।
+वह बच्चों को किंडरगार्टन में छोड़ती है।
+वह बच्चों को डेकेयर में छोड़ती है।
+वह घर से निकल जाता है।
+वह काम पर जाता है।
+---

@@ -1,0 +1,60 @@
+1. situation.
+2. interessant.
+3. rengøring.
+4. assistent.
+5. arbejdsløs.
+6. forskellige.
+7. uddannet.
+8. program.
+9. stressende.
+10. overarbejde.
+11. mennesker.
+12. selvstændig.
+13. allerede.
+14. butik.
+15. kolleger.
+16. universitetet.
+17. psykologi.
+18. kontor.
+
+---
+
+---
+1. situation.
+2. interesting.
+3. cleaning.
+4. assistant.
+5. unemployed.
+6. different.
+7. educated.
+8. program.
+9. stressful.
+10. overtime.
+11. people.
+12. self-employed.
+13. already.
+14. shop.
+15. colleagues.
+16. university.
+17. psychology.
+18. office.
+---
+1. स्थिति।
+2. दिलचस्प।
+3. सफाई।
+4. सहायक।
+5. बेरोजगार।
+6. अलग।
+7. शिक्षित।
+8. कार्यक्रम।
+9. तनावपूर्ण।
+10. ओवरटाइम।
+11. लोग।
+12. स्वरोजगार।
+13. पहले से ही।
+14. दुकान।
+15. सहकर्मी।
+16. विश्वविद्यालय।
+17. मनोविज्ञान।
+18. कार्यालय।
+---

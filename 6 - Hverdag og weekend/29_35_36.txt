@@ -1,0 +1,95 @@
+Hun køber ind.
+Hun tager hjem.
+Han spiser frokost.
+Hun slapper af.
+Han skriver en e-mail.
+Han spiller computerspil.
+Hun laver hjemmearbejde.
+Han henter børnene.
+Hun rydder op.
+Hun gør rent.
+Hun vasker tøj.
+Hun taler i telefon.
+Hun passer børn.
+Han er sammen med nogle venner.
+
+Hun laver mad.
+De spiser aftensmad.
+Hun vasker op.
+Hun læser en bog.
+Hun går en tur.
+Han besøger en ven.
+Han får gæster.
+Hun ringer til en ven.
+Hun sender en sms.
+Han hører musik.
+Han taler med sin kone.
+Han taler med sin kæreste.
+De ser fjernsyn.
+Hun går i seng.
+Hun sover.
+
+---
+
+---
+She goes shopping.
+She goes home.
+He has lunch.
+She relaxes.
+He writes an email.
+He plays computer games.
+She does homework.
+He picks up the kids.
+She tidies up.
+She cleans.
+She does the laundry.
+She talks on the phone.
+She babysits.
+He is with some friends.
+
+She cooks.
+They have dinner.
+She washes the dishes.
+She reads a book.
+She goes for a walk.
+He visits a friend.
+He has guests.
+She calls a friend.
+She sends a text message.
+He listens to music.
+He talks to his wife.
+He talks to his girlfriend.
+They watch TV.
+She goes to bed.
+She sleeps.
+---
+वह खरीदारी करने जाती है।
+वह घर जाती है।
+वह दोपहर का भोजन करता है।
+वह आराम करती है।
+वह एक ईमेल लिखता है।
+वह कंप्यूटर गेम खेलता है।
+वह होमवर्क करती है।
+वह बच्चों को उठाता है।
+वह साफ-सफाई करती है।
+वह सफाई करती है।
+वह कपड़े धोती है।
+वह फोन पर बात करती है।
+वह बच्चों की देखभाल करती है।
+वह कुछ दोस्तों के साथ है।
+वह खाना बनाती है।
+वे रात का खाना खाते हैं।
+वह बर्तन धोती है।
+वह किताब पढ़ती है।
+वह टहलने जाती है।
+वह एक दोस्त से मिलने जाता है।
+उसके पास मेहमान हैं।
+वह एक दोस्त को फोन करती है।
+वह एक टेक्स्ट संदेश भेजती है।
+वह संगीत सुनता है।
+वह अपनी पत्नी से बात करता है।
+वह अपनी प्रेमिका से बात करता है।
+वे टीवी देखते हैं।
+वह बिस्तर पर चली जाती है।
+वह सो जाती है।
+---

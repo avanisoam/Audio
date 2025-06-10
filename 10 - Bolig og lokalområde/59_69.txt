@@ -1,0 +1,151 @@
+Køkkenet.
+
+et køkkenbord.
+et koleskab.
+en fryser.
+et komfur.
+en ovn.
+et køkkenskab.
+en skuffe.
+en thermokande.
+en tallerken.
+en kniv.
+en gaffel.
+en ske.
+en elkedel.
+en køkkenvask.
+en emhætte.
+en potteplante.
+et gardin.
+et skærebræet.
+
+Badeværelset.
+
+en bruseniche.
+en bruser.
+en håndvask.
+en vandhane.
+et toilet.
+et spejl.
+en hylde.
+en toiletrulle.
+en bademåtte.
+et badeforhæng.
+et håndklæde.
+en hårtørrer.
+en tandbørste.
+en sæbe.
+en knagerække.
+
+---
+
+---
+The kitchen.
+
+a kitchen table.
+a refrigerator.
+a freezer.
+a stove.
+an oven.
+a kitchen cabinet.
+a drawer.
+a thermos.
+a plate.
+a knife.
+a fork.
+a spoon.
+an electric kettle.
+a kitchen sink.
+a range hood.
+a potted plant.
+a curtain.
+a cutting board.
+
+The bathroom.
+
+a shower cubicle.
+a shower.
+a sink.
+a faucet.
+a toilet.
+a mirror.
+a shelf.
+a toilet roll.
+a bath mat.
+a shower curtain.
+a towel.
+a hairdryer.
+a toothbrush.
+a soap.
+a coat rack.
+---
+रसोई.
+
+रसोई की मेज़.
+
+रेफ्रिजरेटर.
+
+फ़्रीज़र.
+
+स्टोव.
+
+ओवन.
+
+रसोई की कैबिनेट.
+
+दराज.
+
+थर्मस.
+
+प्लेट.
+
+चाकू.
+
+कांटा.
+
+चम्मच.
+
+इलेक्ट्रिक केतली.
+
+रसोई का सिंक.
+
+रेंज हुड.
+
+गमले में लगा पौधा.
+
+पर्दा.
+
+कटिंग बोर्ड.
+
+बाथरूम.
+
+शॉवर क्यूबिकल.
+
+शॉवर.
+
+सिंक.
+
+नल.
+
+शौचालय.
+
+आईना.
+
+शेल्फ.
+
+टॉयलेट रोल.
+
+बाथ मैट.
+
+शॉवर पर्दा.
+
+तौलिया.
+
+हेयर ड्रायर.
+
+टूथब्रश.
+
+साबुन.
+
+कोट रैक.
+---

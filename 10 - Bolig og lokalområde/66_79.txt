@@ -1,0 +1,60 @@
+1. lejlighed.
+2. kvadratmeter.
+3. værelse.
+4. altan.
+5. skrivebord.
+6. maleri.
+7. husleje.
+8. udsigt.
+9. legeplads.
+10. nabo.
+11. centralt.
+12. nærheden.
+13. område.
+14. station.
+15. alligevel.
+16. lokal.
+17. transport.
+18. trafik.
+
+---
+
+---
+1. apartment.
+2. square meters.
+3. room.
+4. balcony.
+5. desk.
+6. painting.
+7. rent.
+8. view.
+9. playground.
+10. neighbor.
+11. central.
+12. nearby.
+13. area.
+14. station.
+15. anyway.
+16. local.
+17. transportation.
+18. traffic.
+---
+1. अपार्टमेंट.
+2. वर्ग मीटर.
+3. कमरा.
+4. बालकनी.
+5. डेस्क.
+6. पेंटिंग.
+7. किराया.
+8. दृश्य.
+9. खेल का मैदान.
+10. पड़ोसी.
+11. केंद्रीय.
+12. पास.
+13. क्षेत्र.
+14. स्टेशन.
+15. वैसे भी.
+16. स्थानीय.
+17. परिवहन.
+18. यातायात.
+---

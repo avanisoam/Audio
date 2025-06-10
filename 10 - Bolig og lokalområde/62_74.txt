@@ -1,0 +1,57 @@
+Farver.
+
+1. Gul.
+2. Rød.
+3. Grøn.
+4. Blå.
+5. Brun.
+6. Grå.
+7. Orange.
+8. Lilla.
+9. Hvid.
+10. Sort.
+11. Beige.
+12. Mørkegrøn.
+13. Lyseblå.
+14. Mørkeblå.
+15. Lyserød.
+
+---
+
+---
+Colors.
+
+1. Yellow.
+2. Red.
+3. Green.
+4. Blue.
+5. Brown.
+6. Gray.
+7. Orange.
+8. Purple.
+9. White.
+10. Black.
+11. Beige.
+12. Dark green.
+13. Light blue.
+14. Dark blue.
+15. Pink.
+---
+रंग.
+
+1. पीला.
+2. लाल.
+3. हरा.
+4. नीला.
+5. भूरा.
+6. ग्रे.
+7. नारंगी.
+8. बैंगनी.
+9. सफेद.
+10. काला.
+11. बेज.
+12. गहरा हरा.
+13. हल्का नीला.
+14. गहरा नीला.
+15. गुलाबी.
+---

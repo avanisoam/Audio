@@ -1,0 +1,116 @@
+﻿﻿Hvad er klokken?
+Den er halv ti.
+Hvornår har vi pause?
+Vi holder pause nu.
+Hvor lang pause har vi?
+I har et kvarter.
+Til kvart i ti.
+Vi ses om lidt.
+
+Minutter.
+Sekunder.
+
+Hvad er klokken?
+
+Den er 8.
+Den er kvart over 8.
+Den er halv 9.
+Den er kvart i 9.
+
+et minut.
+et kvarter.
+en halv time.
+en time.
+et døgn.
+
+formiddag.
+eftermiddag.
+aften.
+nat.
+
+---
+
+वै एआ क्लौकन?
+डैन एआ हैल्व टी.
+वैनौ हा वी पाउजे?
+वी होला पाउजे नू.
+वौ लैन्ग पाउजे हा वी?
+इ हा ईट कवाटिया.
+ठिल कवाट इ टी.
+वी सीस् औम लिट.
+
+मिनुटा.
+सिकुन्डा.
+
+वै एआ क्लौकन?
+
+डैन एआ ओडे.
+डैन एआ कवाट ओवा ओडे.
+डैन एआ हैल्व नि.
+डैन एआ कवाट इ नि.
+
+ईट मिनुट.
+ईट कवाटिया.
+इन हैल्व ठीमा.
+इन ठीमा.
+ईट डोइन.
+
+फोमिडे.
+एफठामिडे.
+आफट्न.
+नैट.
+
+---
+What time is it?
+It's half past nine.
+When do we have a break?
+We're taking a break now.
+How long is our break?
+You have a quarter to ten.
+See you in a minute.
+
+Minutes.
+Seconds.
+
+What time is it?
+
+It's 8.
+It's a quarter past eight.
+It's half past eight.
+It's a quarter to eight.
+
+A minute.
+A quarter to nine.
+A half hour.
+An hour.
+A day.
+
+Morning.
+Afternoon.
+Evening.
+Night.
+---
+अभी समय क्या हुआ है?
+साढ़े नौ बज रहे हैं।
+हमें कब ब्रेक मिलेगा?
+हम अभी ब्रेक ले रहे हैं।
+हमारा ब्रेक कितना लंबा है?
+आपके पास दस बजने में एक चौथाई है।
+एक मिनट में मिलते हैं।
+मिनट।
+सेकंड।
+अभी समय क्या हुआ है?
+अभी 8 बज रहे हैं।
+अभी सवा आठ बज रहे हैं।
+अभी सवा आठ बज रहे हैं।
+अभी सवा आठ बज रहे हैं।
+एक मिनट।
+सवा नौ बज रहे हैं।
+आधा घंटा।
+एक घंटा।
+एक दिन।
+सुबह।
+दोपहर।
+शाम।
+रात।
+---

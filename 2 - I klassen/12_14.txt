@@ -1,0 +1,59 @@
+en bog.
+et hæefte.
+en mappe.
+et papir.
+en blyant.
+en kop.
+et ur.
+en nøgle.
+en taske.
+en ordbog.
+en kuglepen.
+et penalhus.
+en blyantspidser.
+
+---
+
+इन बो.
+ईट हैअफटा.
+इन माप्पे.
+ईट पपीआ.
+इन बि्लयान्ट.
+इन कौप.
+ईट उआ.
+इन नौइले.
+इन ठैस्के.
+इन ओ बो.
+इन खूलेपैन.
+ईट पिनालहूस.
+इन बि्लयान्ट सि्पस्डा.
+
+---
+a book.
+a booklet.
+a folder.
+a paper.
+a pencil.
+a cup.
+a watch.
+a key.
+a bag.
+a dictionary.
+a pen.
+a pencil case.
+a pencil sharpener.
+---
+एक किताब.
+एक पुस्तिका.
+एक फ़ोल्डर.
+एक कागज.
+एक पेंसिल.
+एक कप.
+एक घड़ी.
+एक चाबी.
+एक थैला.
+एक शब्दकोश.
+एक कलम.
+एक पेंसिल केस.
+एक पेंसिल शार्पनर.
+---

@@ -1,0 +1,62 @@
+en ejendom.
+en lejlighed. 
+en opgang.
+Et kollegieværelse.
+Et hus i byen.
+Et hus på landet.
+
+en entre.
+en gang.
+et køkken.
+en spisestue.
+et bryggers.
+et badeværelse.
+et toilet.
+en stue.
+et soveværelse.
+et børneværelse.
+et kontor.
+et arbejdsværelse.
+
+---
+
+---
+a property.
+an apartment. 
+a hallway.
+a dormitory room.
+a house in the city.
+a house in the country.
+
+an entrance hall.
+a hallway.
+a kitchen.
+a dining room.
+a utility room.
+a bathroom.
+a toilet.
+a living room.
+a bedroom.
+a children's room.
+an office.
+a study.
+---
+एक संपत्ति।
+एक अपार्टमेंट।
+एक दालान।
+एक छात्रावास का कमरा।
+शहर में एक घर।
+देश में एक घर।
+एक प्रवेश द्वार।
+एक दालान।
+एक रसोईघर।
+एक भोजन कक्ष।
+एक उपयोगिता कक्ष।
+एक बाथरूम।
+एक शौचालय।
+एक बैठक का कमरा।
+एक शयनकक्ष।
+एक बच्चों का कमरा।
+एक कार्यालय।
+एक अध्ययन कक्ष।
+---

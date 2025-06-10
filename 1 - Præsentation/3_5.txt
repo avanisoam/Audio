@@ -1,0 +1,39 @@
+Hvad hedder du til fornavn?
+Jeg hedder Elisabeth.
+Hvordan staver du det?
+E - l - i - s - a - b - e - t - h.
+Hvad hedder du til efternavn?
+Jensen.
+Hvordan staver du det?
+J - e - n - s - e - n.
+
+---
+
+वै हिला डू ठिल फोनाउन?
+याए हिला एलिझाबेथ.
+वोदान स्टेवा डू डे?
+ई - एल - इ - एस - ऐ - बी - ई - टि - हो.
+वै हिला डू ठिल इफ़्तेनाउन?
+येनसन.
+वोदान स्टेवा डू डे?
+यल - ई - एन - एस - ई - एन.
+
+---
+What is your first name?
+My name is Elisabeth.
+How do you spell it?
+E - l - i - s - a - b - e - t - h.
+What is your last name?
+Jensen.
+How do you spell it?
+J - e - n - s - e - n.
+---
+आपका पहला नाम क्या है?
+मेरा नाम एलिज़ाबेथ है।
+आप इसे कैसे लिखते हैं?
+ई - एल - आई - एस - ए - बी - ई - टी - एच।
+आपका अंतिम नाम क्या है?
+जेन्सेन।
+आप इसे कैसे लिखते हैं?
+जे - ई - एन - एस - ई - एन।
+---

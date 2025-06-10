@@ -1,0 +1,99 @@
+Hvor gammel er du?
+Jeg er 22.
+
+Hvor bor du?
+Jeg bor i Vestergade.
+Hvor i Vestergade?
+I nummer 38.
+
+Hvad sal bor du på?
+Anden sal til højre.
+
+Bor du alene?
+Nej, jeg bor sammen med min familie.
+Hvad med dig?
+
+Har du telefon?
+Ja, det har jeg.
+Hvad er dit telefonnummer?
+Det er 31 23 45 67.
+
+Har du også en e-mailadresse?
+Ja, det er line01@gmail_dot_dk.
+Hvordan staver du det?
+
+---
+
+वौ गामल एआ डू?
+याए एआ थुआथियु.
+
+वौ बोआ डू?
+याए बोआ इ वेस्टागेल.
+वौ इ वेस्टागेल?
+इ नमम्मा एडन.
+
+वै सेल बोआ डू पौ?
+ऐनन सेल ठिल होया.
+
+बोआ डू एलीनऐ?
+नाऐ, याए बोआ सामन मेल मिन फ़ैमीलिये.
+वै मेल डाए?
+
+हा डू टेली-फोन?
+या, डे हा याए.
+वै एआ डिट टेलीफ़ोनम्मा?
+डे एआ इनाठालवे थेयाथियु फैमाफैया सियुडन.
+
+हा डू औस इन ईमेलएड्रास?
+या, डे एआ line01@gmail_dot_dk.
+वोदान स्टेवा डू डे?
+
+---
+How old are you?
+I'm 22.
+
+Where do you live?
+I live in Vestergade.
+Where in Vestergade?
+At number 38.
+
+What floor do you live on?
+Second floor to the right.
+
+Do you live alone?
+No, I live with my family.
+What about you?
+
+Do you have a phone?
+Yes, I do.
+What is your phone number?
+It's 31 23 45 67.
+
+Do you also have an email address?
+Yes, it's line01@gmail_dot_dk.
+How do you spell it?
+---
+आपकी उम्र कितनी है?
+मेरी उम्र 22 साल है।
+
+आप कहाँ रहते हैं?
+मैं वेस्टरगेड में रहता हूँ।
+वेस्टरगेड में कहाँ?
+38 नंबर पर।
+
+आप किस मंजिल पर रहते हैं?
+दाईं ओर दूसरी मंजिल।
+
+क्या आप अकेले रहते हैं?
+नहीं, मैं अपने परिवार के साथ रहता हूँ।
+और आप?
+
+क्या आपके पास फ़ोन है?
+हाँ, मेरे पास है।
+आपका फ़ोन नंबर क्या है?
+यह 31 23 45 67 है।
+
+क्या आपके पास ईमेल पता भी है?
+हाँ, यह line01@gmail_dot_dk है।
+आप इसे कैसे लिखते हैं?
+---
