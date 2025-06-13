@@ -28,7 +28,62 @@ et billede.
 noget legetøj.
 
 ---
+Words wrapped with **:
+Kig
+billederne
+Hvilke
+kender
+Soveværelset
+kommode
+sengebord
+sengelampe
+kontakt
+garderobeskab
+dyne
+hovedpude
+sengetæeppe
+noget
+sofa
+pude
+lænestol
+sofabord
+reol
+gulvtæeppe
+spisebord
+vase
+billede
+legetøj
+Words wrapped with ¤¤:
+(None found in this text)
 
+**Kig** पौ **billederne**.
+**Hvilke** ओआ **kender** डू?
+
+**Soveværelset**.
+
+इन सेन्ग.
+इन **kommode**.
+ईट **sengebord**.
+इन **sengelampe**.
+इन **kontakt**.
+ईट **garderobeskab**.
+इन **dyne**.
+इन **hovedpude**.
+ईट **sengetæeppe**.
+**noget** ठौए.
+
+स्टून्नन.
+
+इन **sofa**.
+इन **pude**.
+इन **lænestol**.
+ईट **sofabord**.
+इन **reol**.
+ईट **gulvtæeppe**.
+ईट **spisebord**.
+इन **vase**.
+ईट **billede**.
+**noget** **legetøj**.
 ---
 Look at the pictures.
 What words do you know?

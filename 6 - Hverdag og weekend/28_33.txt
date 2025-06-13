@@ -1,13 +1,13 @@
 Det er mandag morgen.
 Klokken er syv, og vækkeuret ringer.
-Thomas vågner og star op.
+Thomas vågner og står op.
 Han står altid op klokken syv.
 Han er ikke frisk, men han skal på arbejde.
 Thomas er altid træt om morgenen.
 Han er B-menneske.
 Thomas tager et brusebad, og han tager tøj på.
 Klokken er nu kvart over syv.
-Thomas går ud i kokkenet og spiser morgenmad.
+Thomas går ud i køkkenet og spiser morgenmad.
 Han spiser ikke så meget, for han er aldrig sulten om morgenen.
 Han spiser kun et stykke brod med ost, og han drikker en kop te.
 Thomas drikker aldrig kaffe.
@@ -20,6 +20,27 @@ Han går hen til bussen.
 Han tager normalt bussen til arbejde.
 
 ---
+
+"डे एआ मैन डे मोर्न.
+क्लौकन एआ सियु, औ वैगेउआ रेअंईगा.
+थॉमस (Thomas) वोउना औ स्टो अप.
+हैन स्टो एैलटिल अप क्लौकन सियु.
+हैन एआ इख फिर्सक, मैन हैन स्खैल पौ आबाएडा.
+थॉमस (Thomas) एआ एैलटिल खाट औम मौअन.
+हैन एआ बी मैनिस्खा.
+थॉमस (Thomas) ठा ईट बूसाबैल, औ हैन ठा ठौए पौ.
+क्लौकन एआ नू कवाट ओवा सियु.
+थॉमस (Thomas) गौ उल इ खुखैनेल औ स्पीसा मोर्न-मैल.
+हैन स्पीसा इख सौ माल, फौ हैन एआ आलर्डि सूल्टना औम मौअन.
+हैन स्पीसा खुन ईट स्टयूखै वौल मेल औस्ट, औ हैन ड्राईगा इन कौप टीई.
+थॉमस (Thomas) ड्राईगा आलर्डि खाफे.
+हैन कैन इख ली खाफे, मैन हैन कैन गौट ली टीई.
+थॉमस (Thomas) हुया औस राडियो.
+हैन हुया टिट न्युहिला औम मौअन, औ हैन लेसा नूल गान्ग ऐवीस.
+क्लौकन एआ नू हैल्व ओडे.
+थॉमस (Thomas) ठा यैके पौ, औ हैन ठा सिन ठैस्के.
+हैन गौ हैन ठिल बूसन.
+हैन ठा नौमेल्ट बूसन ठिल आबाएडा.
 
 ---
 It's Monday morning.

@@ -17,7 +17,45 @@ Farver.
 15. Lyserød.
 
 ---
+Words wrapped with **:
+Farver
+Gul
+Rød
+Grøn
+Blå
+brun
+Grå
+Orange
+Lilla
+Hvid
+Sort
+Beige
+Mørkegrøn
+Lyseblå
+14
+Mørkeblå
+15
+Lyserød
+Words wrapped with ¤¤:
+(None found in this text)
 
+"**Farver**.
+
+ऍन. **Gul**.
+ठू. **Rød**.
+थ्रे. **Grøn**.
+फिया. **Blå**.
+फैम. **brun**.
+सीएक्स. **Grå**.
+स्यू. **Orange**.
+ओडे. **Lilla**.
+नि. **Hvid**.
+टि. **Sort**.
+ऐलवे. **Beige**.
+ठाल्व. **Mørkegrøn**.
+थ्राडन. **Lyseblå**.
+**14**. **Mørkeblå**.
+**15**. **Lyserød**.
 ---
 Colors.
 

@@ -1,0 +1,50 @@
+English	Danish	    Example	Translation	    Pronunciation
+How	    hvordan	    How much is this	    Hvor meget koster dette	
+When	hvornår	    When can we meet	    Hvor kan vi mødes	
+Who	    hvem	    Who is this	            Hvem er det	
+Where	hvor	    Where do you live	    Hvor bor du	
+Why	    hvorfor	    Why is it expensive	    Hvorfor er det så dyrt	
+What	hvad	    What is your name	    Hvad hedder du	
+
+English	    Danish
+who         hvem
+what        hvad
+which       hvilken/hvilket
+where       hvor
+how         hvordan
+How long    Hvor længe
+How much    Hvor meget
+when        hvornår
+why         hvorfor
+
+English	                        Danish	                    Pronunciation
+How are you?	                Hvordan går det?	
+Do you speak English?	        Taler du engelsk?	
+Where do you work?	            Hvor arbejder du?	
+When is your birthday?	        Hvornår har du fødselsdag?	
+Where did you learn danish?	    Hvor har du lært dansk?	
+What did you say?	            Hvad sagde du?	
+Do you love me?	                Elsker du mig?	
+Why are you sad?	            Hvorfor er du trist?	
+Do you know me?	                Kender du mig?	
+When will i see you again?	    Hvornår ses vi igen?	
+Where do you come from?	        Hvor kommer du fra?	
+When can we meet?	            Hvor kan vi mødes?	
+Can you speak slowly?	        Kan du tale langsomt?	
+How much is this	            Hvor meget koster dette?	
+How difficult is it?	        Hvor svært er det?	
+What time is it?	            Hvad er klokken?	
+Can I help you?	                Kan jeg hjælpe dig?	
+What is this?	                Hvad er dette?	
+Where are you going to?	        Hvor går du hen?	
+What is your name?	            Hvad hedder du	
+Where is the toilet?	        Hvor er toilettet?	
+Can you help me?	            Kan du hjælpe mig?	
+What should I say?	            Hvad burde jeg sige?	
+How old are you?	            Hvor gammel er du?	
+What is your phone number?	    Hvad er dit nummer?	
+Can I have the bill, please?	Kan jeh få regningen tak?	
+How do you want to pay?	        Hvordan vil du betale?	
+What is that called in Danish?	Hvad hedder det på dansk?	
+What are you doing?	            hvad laver du?	
+Do you understand?	            Forstår du?

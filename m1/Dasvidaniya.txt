@@ -1,0 +1,42 @@
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å
+
+ऐ बी सी डी ई एफ गी हो इ यल खो एल एम एन ओ प खु एया एस टि उ वी डॉबलवी एक्स ऊ झेड ऐ ऊऐ औ
+
+Counting numbers
+
+Cardinal    number	    Ordinal number
+0	        nul	        nulte
+1	        en c, et n	første
+2	        to	        anden
+3	        tre	        tredje
+4	        fire	    fjerde
+5	        fem	        femte
+6	        seks	    sjette
+7	        syv	        syvende
+8	        otte	    ottende
+9	        ni	        niende
+
+10	        ti	        tiende
+11	        elleve	    ellevte, elvte
+12	        tolv	    tolvte
+13	        tretten	    trettende
+14	        fjorten	    fjortende
+15	        femten	    femtende
+16	        seksten	    sekstende
+17	        sytten	    syttende
+18	        atten	    attende
+19	        nitten	    nittende
+
+10	        ti	        tiende
+20	        tyve        tyvende
+30	        tredive     tredivte, tredvte
+40	        fyrre       fyrrende, fyrretyvende
+50	        halvtreds   halvtredsende
+60	        tres        tressende, tresindstyvende
+70	        halvfjerds  halvfjerdsende, halvfjerdsindstyvende
+80	        firs        firsende, firsindstyvende
+90	        halvfems    halvfemsende, halvfemsindstyvende
+100	        hundrede	hundrede
+
+नुल ऍन ठू थ्रे फिया फैम सीएक्स स्यू ओडे नि टि ऐलवे ठाल्व थ्राडन फ्योडन फैमडन साइसडन सियुडन एडन निडेन थियु थाल्वे फैया हेल्थ्रेस थ्रेस हेल्फ़ियास फ़िआस हेल्फ़ेम्स हुनाल थुसन

@@ -56,6 +56,66 @@ where Id = 715
 "AddedOn": "2025-06-09T12:39:06.573Z"
 }
 
+{
+"Id": 0,
+"Name": "make-up",
+"Article": "string",
+"Pronunciation": "मेखअप",
+"GroupId": 0,
+"OrderId": 0,
+"Dk": "make-up",
+"En": "make-up",
+"Hi": "make-up",
+"Scope": "",
+"DanishWord_TypeId": 1,
+"AddedOn": "2025-06-09T12:39:06.573Z"
+}
+
+{
+"Id": 0,
+"Name": "A-menneske",
+"Article": "string",
+"Pronunciation": "ऐ मैनिस्खा",
+"GroupId": 0,
+"OrderId": 0,
+"Dk": "A-menneske",
+"En": "A-menneske",
+"Hi": "A-menneske",
+"Scope": "",
+"DanishWord_TypeId": 1,
+"AddedOn": "2025-06-09T12:39:06.573Z"
+}
+
+{
+"Id": 0,
+"Name": "B-menneske",
+"Article": "string",
+"Pronunciation": "बी मैनिस्खा",
+"GroupId": 0,
+"OrderId": 0,
+"Dk": "B-menneske",
+"En": "B-menneske",
+"Hi": "B-menneske",
+"Scope": "",
+"DanishWord_TypeId": 1,
+"AddedOn": "2025-06-09T12:39:06.573Z"
+}
+
+{
+"Id": 0,
+"Name": "2-værelses",
+"Article": "string",
+"Pronunciation": "टूवैयलसैस",
+"GroupId": 0,
+"OrderId": 0,
+"Dk": "2-værelses",
+"En": "2-værelses",
+"Hi": "2-værelses",
+"Scope": "",
+"DanishWord_TypeId": 1,
+"AddedOn": "2025-06-09T12:39:06.573Z"
+}
+
 ---
 
 SELECT \* FROM DanishWord

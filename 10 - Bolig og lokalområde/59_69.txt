@@ -39,6 +39,84 @@ en knagerække.
 
 ---
 
+
+Words wrapped with **:
+køkkenet
+køkkenbord
+koleskab
+fryser
+komfur
+ovn
+køkkenskab
+skuffe
+thermokande
+tallerken
+kniv
+gaffel
+ske
+elkedel
+køkkenvask
+emhætte
+potteplante
+gardin
+skærebræet
+Badeværelset
+bruseniche
+bruser
+håndvask
+vandhane
+toilet
+spejl
+hylde
+toiletrulle
+bademåtte
+badeforhæng
+håndklæde
+hårtørrer
+tandbørste
+sæbe
+knagerække
+Words wrapped with ¤¤:
+(None found in this text)
+
+**køkkenet**.
+
+ईट **køkkenbord**.
+ईट **koleskab**.
+इन **fryser**.
+ईट **komfur**.
+इन **ovn**.
+ईट **køkkenskab**.
+इन **skuffe**.
+इन **thermokande**.
+इन **tallerken**.
+इन **kniv**.
+इन **gaffel**.
+इन **ske**.
+इन **elkedel**.
+इन **køkkenvask**.
+इन **emhætte**.
+इन **potteplante**.
+ईट **gardin**.
+ईट **skærebræet**.
+
+**Badeværelset**.
+
+इन **bruseniche**.
+इन **bruser**.
+इन **håndvask**.
+इन **vandhane**.
+ईट **toilet**.
+ईट **spejl**.
+इन **hylde**.
+इन **toiletrulle**.
+इन **bademåtte**.
+ईट **badeforhæng**.
+ईट **håndklæde**.
+इन **hårtørrer**.
+इन **tandbørste**.
+इन **sæbe**.
+इन **knagerække**.
 ---
 The kitchen.
 
@@ -82,70 +160,37 @@ a coat rack.
 रसोई.
 
 रसोई की मेज़.
-
 रेफ्रिजरेटर.
-
 फ़्रीज़र.
-
 स्टोव.
-
 ओवन.
-
 रसोई की कैबिनेट.
-
 दराज.
-
 थर्मस.
-
 प्लेट.
-
 चाकू.
-
 कांटा.
-
 चम्मच.
-
 इलेक्ट्रिक केतली.
-
 रसोई का सिंक.
-
 रेंज हुड.
-
 गमले में लगा पौधा.
-
 पर्दा.
-
 कटिंग बोर्ड.
-
 बाथरूम.
-
 शॉवर क्यूबिकल.
-
 शॉवर.
-
 सिंक.
-
 नल.
-
 शौचालय.
-
 आईना.
-
 शेल्फ.
-
 टॉयलेट रोल.
-
 बाथ मैट.
-
 शॉवर पर्दा.
-
 तौलिया.
-
 हेयर ड्रायर.
-
 टूथब्रश.
-
 साबुन.
-
 कोट रैक.
 ---
