@@ -116,6 +116,21 @@ where Id = 715
 "AddedOn": "2025-06-09T12:39:06.573Z"
 }
 
+{
+"Id": 0,
+"Name": "2dot",
+"Article": "string",
+"Pronunciation": "ऐनन",
+"GroupId": 0,
+"OrderId": 0,
+"Dk": "2dot",
+"En": "2dot",
+"Hi": "2dot",
+"Scope": "",
+"DanishWord_TypeId": 1,
+"AddedOn": "2025-06-09T12:39:06.573Z"
+}
+
 ---
 
 SELECT \* FROM DanishWord
