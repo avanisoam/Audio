@@ -1,0 +1,631 @@
+# Arbejde
+
+## Job / sted
+Hvor arbejder du?
+
+Hvor ligger din arbejdsplads?
+
+## Dage / tid
+Hvor mange dage om ugen arbejder du?
+
+Hvor tit arbejder du?
+
+Hvad tid møder du?
+
+Hvad tid har du fri?
+
+Hvad er dine mødetider?
+
+Hvilke dage arbejder du?
+
+Hvor længe har du været ansat?
+
+Hvor længe har du arbejdet der?
+
+## Chef
+Hvordan er din chef?
+
+Har du en god chef?
+
+Hjælper din chef dig?
+
+## Kollegaer
+Har du kolleger?
+
+Arbejder du alene eller sammen med nogen?
+
+Hvor mange kollegaer har du?
+
+Hvad hedder dine kollegaer?
+
+Hvor kommer dine kollegaer fra?
+
+Hvad sprog taler du med dine kollegaer?
+
+## Pauser
+Har du en pause?
+
+Holder du pause?
+
+Hvor lang er din pause?
+
+Hvad laver du i pausen?
+
+## Transport til arbejde
+Hvordan kommer du på arbejde?
+
+Tager du bussen på arbejde?
+
+Kører du i bil?
+
+Cykler du?
+
+Hvor lang tid tager det?
+
+# Bolig
+
+## Sted / by
+Hvor bor du?
+
+Hvilken by bor du i?
+
+Hvad er din adresse?
+
+Bor du i Roskilde?
+
+## Hus / lejlighed
+Bor du i hus eller lejlighed?
+
+Hvordan bor du?
+
+Hvilken sal bor du på?
+
+Hvilket nummer bor du i?
+
+## Værelser / m2
+Hvor mange værelser har du?
+
+Hvilke værelser har du?
+
+Hvor mange kvadratmeter er din bolig?
+
+Hvor stor er din lejlighed / hus / bolig?
+
+## Alene / sammen med
+Bor du alene eller sammen med nogen?
+
+Bor du sammen med din familie?
+
+## Husarbejde
+Hvad laver du?
+
+Hvad slags husarbejde laver du?
+
+Kan du lide at gøre rent?
+
+Hvem støvsuger?
+
+## Naboer
+Har du naboer?
+
+Kender du dine naboer?
+
+Hvor mange naboer har du?
+
+Hvad hedder dine naboer?
+
+Hvordan er dine naboer?
+
+Har du gode naboer?
+
+# Praktik
+
+## Praktik / sted
+
+Hvor er du i praktik?
+
+Hvor ligger din praktikplads?
+
+## Dage / tid
+
+Hvor mange gange om ugen, er du i praktik?
+
+Hvor mange dage om ugen, er du i praktik?
+
+Hvad tid møder du?
+
+Hvad tid har du fri?
+
+Hvilke dage er du i praktik?
+
+Hvor længe har du været i praktik?
+
+## Chef
+Hvordan er din chef?
+
+Har du en god chef?
+
+Er din chef venlig?
+
+## Kollegaer
+Har du kolleger?
+
+Hvor mange kollegaer har du?
+
+Hvad hedder dine kollegaer?
+
+Hvor kommer dine kollegaer fra?
+
+Hvad sprog taler du med dine kollegaer?
+
+## Pauser
+Har du en pause?
+
+Holder du pause?
+
+Hvor lang er din pause?
+
+Hvad laver du i pausen?
+
+## Transport til praktik
+Hvordan kommer du til din praktikplads?
+
+Tager du bussen til din praktikplads?
+
+Kører du i bil til din praktikplads?
+
+Cykler du til din praktikplads?
+
+Hvor lang tid tager det?
+
+# Studie
+
+## Uddannelse
+Hvad læser du?
+
+Hvad studerer du?
+
+## Sted
+
+Hvor læser du?
+Hvor studerer du?
+
+Læser du på Zealand?
+
+Studerer du på Zealand?
+
+## Dage / tid
+Hvilke dage har du undervisning?
+
+Hvor mange gange om ugen, har du undervisning?
+
+Hvor mange dage om ugen, er du på studiet?
+
+Hvad tid møder du?
+
+Hvad tid har du fri?
+
+Hvor længe har du tilbage på studiet?
+
+## Studiekammerater
+
+Hvad sprog taler du med dine ?
+
+## Pauser
+Hvad laver du i pausen?
+
+Hvem er du sammen med i pausen?
+
+## Transport til studie
+Cykler du i skole?
+Cykler du på uni?
+Cykler du til Zealand?
+
+Tager du bussen?
+
+Hvordan kommer du til studiet?
+
+# Sprogskole
+
+## Sprogskole / by:
+Hvor ligger din sprogskole?
+
+Hvad hedder din sprogskole?
+
+## Dage / tid:
+
+Hvor mange timer går du i skole om ugen?
+
+Hvor længe har du gået på sprogskole?
+
+Hvad tid møder du?
+
+Hvad tid har du fri?
+
+Hvor tit har du undervisning?
+
+Hvor mange dage om ugen går du på sprogskole?
+
+## Kursister / lærer:
+Hvor mange kursister er der i klassen?
+
+Hvor mange mænd og kvinder er der i klassen?
+
+Hvor kommer dine klassekammerater fra?
+
+Hvad hedder din lærer?
+
+Er der mange kursister i din klasse?
+
+## Aktiviteter
+Læser taler du dansk i klassen?
+
+Hvad laver du i undervisningen?
+
+## Pauser
+Hvad laver du i pausen?
+
+Hvem er du sammen med i pausen?
+
+Taler du dansk i pausen?
+
+Transport til sprogskolen
+
+Cykler du til sprogskolen?
+
+Tager du bussen?
+
+# Fritidsaktivitet
+
+## Sted
+Hvor spiller du badminton?
+
+Hvilken klub spiller du i?
+
+## Dage
+Hvor tit går du til badminton?
+
+Hvor mange dage om ugen spiller du badminton?
+
+Hvilke dage spiller du badminton?
+
+## Tid
+Hvad tid træner du?
+
+Hvor mange timer om ugen spiller du badminton?
+
+Hvor længe har du spillet badminton? [ present perfect ]
+
+## Pris / gratis
+Betaler du kontingent?
+
+
+## Alene / sammen med
+Spiller du alene eller sammen med nogen?
+
+Hvem spiller du med?
+
+Spiller du med nogen du kender?
+
+## Transport til aktiviteten
+
+Hvordan tager du til træning?
+
+Cykler du til træning?
+
+--- 
+
+¤¤#¤¤ आबाएडा
+
+¤¤##¤¤ जौव ¤¤/¤¤ स्टेल
+वौ आवाइडा डू?
+
+वौ लीगा दीन आवईडप्लेडस?
+
+¤¤##¤¤ डैय्य ¤¤/¤¤ टिल
+वौ मान्गे डैय्य औम ऊन आवाइडा डू?
+
+वौ टिट आवाइडा डू?
+
+वै टिल मु्ला डू?
+
+वै टिल हा डू फी?
+
+वै एआ डिना ¤¤mødetider¤¤?
+
+**Hvilke** डैय्य आवाइडा डू?
+
+वौ लौन्गे हा डू वैल **ansat**?
+
+वौ लौन्गे हा डू आबाएडल दैआ?
+
+¤¤##¤¤ चिफ्फ
+वोदान एआ दीन चिफ्फ?
+
+हा डू इन गौट चिफ्फ?
+
+**hjælper** दीन चिफ्फ डाए?
+
+¤¤##¤¤ ¤¤Kollegaer¤¤
+हा डू कूलीगा?
+
+आवाइडा डू एलीनऐ ऐला सामन मेल नून?
+
+वौ मान्गे ¤¤kollegaer¤¤ हा डू?
+
+वै हिला डिना ¤¤kollegaer¤¤?
+
+वौ खमा डिना ¤¤kollegaer¤¤ फा?
+
+वै स्पो ठेला डू मेल डिना ¤¤kollegaer¤¤?
+
+¤¤##¤¤ ¤¤Pauser¤¤
+हा डू इन पाउजे?
+
+होला डू पाउजे?
+
+वौ लैन्ग एआ दीन पाउजे?
+
+वै लेवा डू इ पाउसन?
+
+¤¤##¤¤ ठान्सपोर्ट ठिल आबाएडा
+वोदान खमा डू पौ आबाएडा?
+
+ठा डू बूसन पौ आबाएडा?
+
+¤¤Kører¤¤ डू इ **bil**?
+
+सूक्ला डू?
+
+वौ लैन्ग टिल ठा डे?
+
+¤¤#¤¤ बोली
+
+¤¤##¤¤ स्टेल ¤¤/¤¤ **by**
+वौ बोआ डू?
+
+विल्कन **by** बोआ डू इ?
+
+वै एआ दीन **adresse**?
+
+बोआ डू इ ¤¤Roskilde¤¤?
+
+¤¤##¤¤ हूस ¤¤/¤¤ लाएलेहिल
+बोआ डू इ हूस ऐला लाएलेहिल?
+
+वोदान बोआ डू?
+
+विल्कन सेल बोआ डू पौ?
+
+¤¤Hvilket¤¤ नमम्मा बोआ डू इ?
+
+¤¤##¤¤ **værelser** ¤¤/¤¤ **m2**
+वौ मान्गे **værelser** हा डू?
+
+**Hvilke** **værelser** हा डू?
+
+वौ मान्गे कवडाटमीटर एआ दीन बोली?
+
+वौ स्टौआ एआ दीन लाएलेहिल ¤¤/¤¤ हूस ¤¤/¤¤ बोली?
+
+¤¤##¤¤ एलीनऐ ¤¤/¤¤ सामन मेल
+बोआ डू एलीनऐ ऐला सामन मेल नून?
+
+बोआ डू सामन मेल दीन फ़ैमीलिये?
+
+¤¤##¤¤ ¤¤Husarbejde¤¤
+वै लेवा डू?
+
+वै ¤¤slags¤¤ ¤¤husarbejde¤¤ लेवा डू?
+
+कैन डू ली **at** ¤¤gøre¤¤ रैन्ट?
+
+वैम **støvsuger**?
+
+¤¤##¤¤ नेबूआ
+हा डू नेबूआ?
+
+**kender** डू डिना नेबूआ?
+
+वौ मान्गे नेबूआ हा डू?
+
+वै हिला डिना नेबूआ?
+
+वोदान एआ डिना नेबूआ?
+
+हा डू गौट नेबूआ?
+
+¤¤#¤¤ ¤¤Praktik¤¤
+
+¤¤##¤¤ ¤¤Praktik¤¤ ¤¤/¤¤ स्टेल
+
+वौ एआ डू इ ¤¤praktik¤¤?
+
+वौ लीगा दीन ¤¤praktikplads¤¤?
+
+¤¤##¤¤ डैय्य ¤¤/¤¤ टिल
+
+वौ मान्गे गान्ग औम ऊन, एआ डू इ ¤¤praktik¤¤?
+
+वौ मान्गे डैय्य औम ऊन, एआ डू इ ¤¤praktik¤¤?
+
+वै टिल मु्ला डू?
+
+वै टिल हा डू फी?
+
+**Hvilke** डैय्य एआ डू इ ¤¤praktik¤¤?
+
+वौ लौन्गे हा डू वैल इ ¤¤praktik¤¤?
+
+¤¤##¤¤ चिफ्फ
+वोदान एआ दीन चिफ्फ?
+
+हा डू इन गौट चिफ्फ?
+
+एआ दीन चिफ्फ ¤¤venlig¤¤?
+
+¤¤##¤¤ ¤¤Kollegaer¤¤
+हा डू कूलीगा?
+
+वौ मान्गे ¤¤kollegaer¤¤ हा डू?
+
+वै हिला डिना ¤¤kollegaer¤¤?
+
+वौ खमा डिना ¤¤kollegaer¤¤ फा?
+
+वै स्पो ठेला डू मेल डिना ¤¤kollegaer¤¤?
+
+¤¤##¤¤ ¤¤Pauser¤¤
+हा डू इन पाउजे?
+
+होला डू पाउजे?
+
+वौ लैन्ग एआ दीन पाउजे?
+
+वै लेवा डू इ पाउसन?
+
+¤¤##¤¤ ठान्सपोर्ट ठिल ¤¤praktik¤¤
+वोदान खमा डू ठिल दीन ¤¤praktikplads¤¤?
+
+ठा डू बूसन ठिल दीन ¤¤praktikplads¤¤?
+
+¤¤Kører¤¤ डू इ **bil** ठिल दीन ¤¤praktikplads¤¤?
+
+सूक्ला डू ठिल दीन ¤¤praktikplads¤¤?
+
+वौ लैन्ग टिल ठा डे?
+
+¤¤#¤¤ ¤¤Studie¤¤
+
+¤¤##¤¤ **uddannelse**
+वै लेसा डू?
+
+वै स्टूडिआ डू?
+
+¤¤##¤¤ स्टेल
+
+वौ लेसा डू?
+वौ स्टूडिआ डू?
+
+लेसा डू पौ ¤¤Zealand¤¤?
+
+स्टूडिआ डू पौ ¤¤Zealand¤¤?
+
+¤¤##¤¤ डैय्य ¤¤/¤¤ टिल
+**Hvilke** डैय्य हा डू ¤¤undervisning¤¤?
+
+वौ मान्गे गान्ग औम ऊन, हा डू ¤¤undervisning¤¤?
+
+वौ मान्गे डैय्य औम ऊन, एआ डू पौ ¤¤studiet¤¤?
+
+वै टिल मु्ला डू?
+
+वै टिल हा डू फी?
+
+वौ लौन्गे हा डू ¤¤tilbage¤¤ पौ ¤¤studiet¤¤?
+
+¤¤##¤¤ ¤¤Studiekammerater¤¤
+
+वै स्पो ठेला डू मेल डिना ¤¤¤¤?
+
+¤¤##¤¤ ¤¤Pauser¤¤
+वै लेवा डू इ पाउसन?
+
+वैम एआ डू सामन मेल इ पाउसन?
+
+¤¤##¤¤ ठान्सपोर्ट ठिल ¤¤studie¤¤
+सूक्ला डू इ स्कोले?
+सूक्ला डू पौ ¤¤uni¤¤?
+सूक्ला डू ठिल ¤¤Zealand¤¤?
+
+ठा डू बूसन?
+
+वोदान खमा डू ठिल ¤¤studiet¤¤?
+
+¤¤#¤¤ स्पोआ स्खोले
+
+¤¤##¤¤ स्पोआ स्खोले ¤¤/¤¤ **by**
+वौ लीगा दीन स्पोआ स्खोले?
+
+वै हिला दीन स्पोआ स्खोले?
+
+¤¤##¤¤ डैय्य ¤¤/¤¤ टिल
+
+वौ मान्गे ठीमा गौ डू इ स्कोले औम ऊन?
+
+वौ लौन्गे हा डू ¤¤gået¤¤ पौ स्पोआ स्खोले?
+
+वै टिल मु्ला डू?
+
+वै टिल हा डू फी?
+
+वौ टिट हा डू ¤¤undervisning¤¤?
+
+वौ मान्गे डैय्य औम ऊन गौ डू पौ स्पोआ स्खोले?
+
+¤¤##¤¤ कुसिस्टा ¤¤/¤¤ लेया
+वौ मान्गे कुसिस्टा एआ दैआ इ क्लेसन?
+
+वौ मान्गे मैन औ खवीना एआ दैआ इ क्लेसन?
+
+वौ खमा डिना ¤¤klassekammerater¤¤ फा?
+
+वै हिला दीन लेया?
+
+एआ दैआ मान्गे कुसिस्टा इ दीन ¤¤klasse¤¤?
+
+¤¤##¤¤ **aktiviteter**
+लेसा ठेला डू डेनस्स्क इ क्लेसन?
+
+वै लेवा डू इ ¤¤undervisningen¤¤?
+
+¤¤##¤¤ ¤¤Pauser¤¤
+वै लेवा डू इ पाउसन?
+
+वैम एआ डू सामन मेल इ पाउसन?
+
+ठेला डू डेनस्स्क इ पाउसन?
+
+ठान्सपोर्ट ठिल **sprogskolen**
+
+सूक्ला डू ठिल **sprogskolen**?
+
+ठा डू बूसन?
+
+¤¤#¤¤ ¤¤Fritidsaktivitet¤¤
+
+¤¤##¤¤ स्टेल
+वौ स्पिला डू ¤¤badminton¤¤?
+
+विल्कन ¤¤klub¤¤ स्पिला डू इ?
+
+¤¤##¤¤ डैय्य
+वौ टिट गौ डू ठिल ¤¤badminton¤¤?
+
+वौ मान्गे डैय्य औम ऊन स्पिला डू ¤¤badminton¤¤?
+
+**Hvilke** डैय्य स्पिला डू ¤¤badminton¤¤?
+
+¤¤##¤¤ टिल
+वै टिल **træner** डू?
+
+वौ मान्गे ठीमा औम ऊन स्पिला डू ¤¤badminton¤¤?
+
+वौ लौन्गे हा डू ¤¤spillet¤¤ ¤¤badminton¤¤? ¤¤[¤¤ ¤¤present¤¤ ¤¤perfect¤¤ ¤¤]¤¤
+
+¤¤##¤¤ ¤¤Pris¤¤ ¤¤/¤¤ ¤¤gratis¤¤
+**betaler** डू ¤¤kontingent¤¤?
+
+
+¤¤##¤¤ एलीनऐ ¤¤/¤¤ सामन मेल
+स्पिला डू एलीनऐ ऐला सामन मेल नून?
+
+वैम स्पिला डू मेल?
+
+स्पिला डू मेल नून डू **kender**?
+
+¤¤##¤¤ ठान्सपोर्ट ठिल ¤¤aktiviteten¤¤
+
+वोदान ठा डू ठिल **træning**?
+
+सूक्ला डू ठिल **træning**?
